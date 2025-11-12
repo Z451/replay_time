@@ -1,3 +1,4 @@
+# Replay of generalized temporal journey
 This repository contains the Python scripts and minimal preprocessed data necessary to generate all figures in the manuscript:
 
 > Zhu et al., *Replay of factorized temporal journey*, prerpint (2025).  
